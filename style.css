@@ -1,0 +1,194 @@
+body {
+  margin: 10;
+}
+.Titletwo {
+  width: fit-content;
+  font-size: xx-large;
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 10px;
+}
+
+.Paragraph-two {
+  display: flex;
+  background-color: rgb(79, 78, 78);
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.Paragraph-three {
+  background-color: rgb(79, 78, 78);
+  width: fit-content;
+  border-radius: 10px;
+}
+
+nav {
+  min-height: 100px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  height: max-content;
+}
+
+nav a:hover {
+  background-color: hsl(195, 53%, 19%);
+  color: hsl(657, 53%, 89%);
+}
+
+nav a {
+  border: 2px solid blue;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  background-color: hsl(195, 53%, 79%);
+  color: hsl(657, 53%, 19%);
+  transition: 250ms;
+  font-size: 24px;
+}
+
+.SiameseP {
+  background-color: rgb(79, 78, 78);
+  width: fit-content;
+  border-radius: 10px;
+  display: flex;
+}
+
+.PersianCat {
+border-radius: 10px;
+margin-top: 10px;
+
+}
+
+.Maine-CoonC {
+  height: 400px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.Maine-CoonP {
+  background-color: rgb(79, 78, 78);
+  width: fit-content;
+  border-radius: 10px;
+  display: flex;
+}
+
+
+.PersianP {
+  background-color: rgb(79, 78, 78);
+width: fit-content;
+border-radius: 10px;
+display: flex;
+}
+
+.SiameseCat {
+  height: 400px;
+  border-radius: 10px;
+}
+.CatBreed {
+  font-size: xxx-large;
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  width: fit-content;
+}
+.Cat-two {
+  height: 400px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.Cat-three {
+  height: 600px;
+  display: flex;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.MeowMeow {
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 15px;
+}
+body {
+  background-color: black;
+  background-image: url('background.jpeg');
+  background-size: 1600px;
+  background-position: center;
+}
+body-two {
+  background-image: url(ra.jpeg);
+
+}
+.username {
+  font-weight: bold;
+}
+.meows {
+  width: 300px;
+  border-radius: 10pxa;
+}
+.puppy {
+  text-align: center;
+  background-color: azure;
+  width: fit-content;
+}
+.title {
+  font-style: italic;
+  font-size: xxx-large;
+
+  /* display: inline-block; */
+  text-align: center;
+  background-color: rgba(255, 132, 0, 0.516);
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.MeowingCat {
+  width: 400px;
+}
+
+.box {
+  display: grid;
+  gap: 40px;
+  grid-template-columns: 400px 1fr;
+}
+
+.box-two {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  background-color: s;
+  border-radius: 10px;
+  height: min-content;
+  background-color: rgb(79, 78, 78);
+  width: fit-content;
+}
+.box-three {
+  display: flex;
+  gap: 10px;
+  font-variant: unset;
+  margin-top: 10px;
+}
+
+.cat-holder {
+  width: 400px;
+  flex-grow: flex-basis 100%;
+}
+p {
+  margin: 0;
+}
+
+.simple-box {
+  display: flex;
+  gap: 12px;
+}
+
+.simple-box-vertical {
+  display: flex;
+  gap: 82px;
+  flex-direction: column;
+}
+
+.lub {
+  height: 500px;
+  border-radius: 10px;
+}
